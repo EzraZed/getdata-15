@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 README for run_analysis.R
 
 
@@ -35,6 +34,3 @@ Only the columns with mean or std are of interest, so only those are extracted. 
 The activity column is altered using the gsub function so the the actual activity being performed is given instead of a number to represent each of the 6 activities.   
 
 The aggregate function is used to get the mean of each feature for each subject doing each activity.  As aggregate alters the order of the final data set, the columns are rearranged back to subject/activity/etc...
-=======
-# getdata-15
->>>>>>> 00bf9926dd16fbe071495e767e7a979d5ebad5a3

@@ -1,4 +1,4 @@
-##install.packages("dplyr")
+install.packages("dplyr")
 library(dplyr)
 
 raw_x_test <- read.table("UCI HAR Dataset/test/X_test.txt") ##2947, 561
