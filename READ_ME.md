@@ -1,4 +1,4 @@
-README for run_analysis.R
+## README for run_analysis.R
 
 
 The data used in this script is from the UCI HAR Dataset file.  This file should be in the working directory for the run_analysis.R scrip to function correctly.  
